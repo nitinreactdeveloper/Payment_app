@@ -77,6 +77,12 @@ const Content = ({ navigation }) => {
                 )}
             </Swiper>
           
+
+          <Text>
+            
+            This is about to push the project to repo.
+            
+            </Text> 
           
 
             <Button title={'Wallet'} onPress={() => navigation.navigate('Wallet')} />
